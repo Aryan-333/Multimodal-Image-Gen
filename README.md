@@ -1,0 +1,34 @@
+# Multimodal Image Generation
+
+A simple PyTorch implementation of Multimodal Image Generation with both command-line and web interface.
+
+## Setup
+
+1. Install requirements:
+```bash
+pip install -r requirements.txt  
+```
+
+## Usage
+
+### Command Line
+Run text-to-image or image-to-image generation:
+```bash
+python run.py
+```
+
+### Web Interface
+Start the local web server:
+```bash
+python app.py
+```
+Then open `http://localhost:5001` in your browser.
+
+## Features
+- Text to Image generation
+- Image to Image transformation
+- Adjustable parameters (steps, strength, CFG scale)
+- CUDA support for faster generation
+
+## Note
+Default device is CPU. To enable CUDA/MPS, modify the `ALLOW_CUDA` or `ALLOW_MPS` flags in the code.
