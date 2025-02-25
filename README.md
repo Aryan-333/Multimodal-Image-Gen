@@ -33,7 +33,10 @@ Then open `http://localhost:5001` in your browser.
 - CUDA support for faster generation
 
 ## DEMO
-Uploading WhatsApp Video 2025-02-13 at 15.58.37.mp4…
+
+
+https://github.com/user-attachments/assets/5fe70e26-6192-4b90-8e1b-a7cb634007eb
+
 
 
 
