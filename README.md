@@ -32,5 +32,12 @@ Then open `http://localhost:5001` in your browser.
 - Adjustable parameters (steps, strength, CFG scale)
 - CUDA support for faster generation
 
+## DEMO
+Uploading WhatsApp Video 2025-02-13 at 15.58.37.mp4…
+
+
+
 ## Note
 Default device is CPU. To enable CUDA/MPS, modify the `ALLOW_CUDA` or `ALLOW_MPS` flags in the code.
+
+
